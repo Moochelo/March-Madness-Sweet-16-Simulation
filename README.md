@@ -127,8 +127,46 @@ After comparing each conference’s theoretical championship odds (based purely 
 
 - **Big 12 (B12)**: The model assigns the Big 12 a slight underperformance of -2.65% compared to their theoretical odds. While Houston is a strong contender (10.19% champion odds via the model), the other three teams (Texas Tech, Arizona, BYU) are less favored, each falling between 2% and 6%.
 
+![image](https://github.com/user-attachments/assets/3bf848ee-82d7-49ef-8c5f-7690eda0aa10)
+
+
+---
+## Limitations and Future Directions
+
+The following limitations within the model/data include:
+
+### 1. **Static Team Strength Assumptions**
+- The model assumes each team’s strength (based on KenPom-style efficiency metrics) is fixed.
+- It doesn’t account for recent injuries, momentum, or matchup-specific dynamics (home court location) that could shift probabilities.
+
+### 2. **Simplified Matchups**
+- Simulations assume matchups are independent and based only on weighted efficiency stats.
+- Factors like coaching, playing style, or historical head-to-head performance aren't included.
+
+### 3. **Randomness and Sample Size**
+- While 10,000 simulations offer stability, some randomness still persists — especially for lower-probability teams.
+- Results may vary if weights/variables change; the weights used in the win probability function were based on basketball logic and exploratory testing, but they weren’t optimized using machine learning or cross-validation..
+
+Future directions that can be taken for an analysis similar to this include:
+
+### 1. **Using Historical Tournament Data to Train a Machine Learning Model**
+- Models can be trained on past NCAA tournaments to better predict outcomes using not just team stats, but seed, region, historical performance, and coaching experience.
+
+### 3. **Dynamic Bracket Updating**
+- Creating a live model that updates probabilities round-by-round as games are played and upsets occur would be very interactive and more in-the-moment.
+
+### 4. **Optimization of Model Weights**
+- Instead of manually choosing weights, using a logistic regression or grid search to optimize feature weights based on past game results could prove helpful in an analysis similar to this.
+
+### 5. **Simulating Individual Matchups**
+- Including variables like defensive matchups, three-point variance, turnover margin, and player-specific statistics could prove to be very useful to analyze how impactful each detail is for a team.
+
 ---
 
+
+## Conclusion
+
+In conclusion, this project undertaken for the SEI x Phillies Hackathon competition aimed to estimate the probability of umpire calls for pitches taken in the 2022 Major League Baseball season. The data analysis and modeling uncovered valuable information about umpire tendencies, accuracy, and what factors influence their decisions. Following the creation of a few calculated variables, the exploratory data analysis that was performed revealed significant features for predicting umpire calls. A logistic regression model on the binary variable (description) was created to construct a predictive model that accurately predicts the probability of an umpire call. The application of this model extends beyond umpire call predictions and can help with catcher framing and improving decision making on and off the field. Teams can use this model to identify the types of pitches pitchers are more likely to throw for strikes, optimize catcher positioning for more strike calls, and determine which pitches batters should frequently swing at.
 
 ![image](https://github.com/user-attachments/assets/fb3b7d56-6b38-4a3f-96d3-2e18c20565a8)
 
