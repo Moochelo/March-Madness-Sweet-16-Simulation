@@ -67,8 +67,11 @@ B12 (4 Teams):
 At a conceptual level: 
 
 SEC = 7/16 = 43.75%
+
 ACC = 1/16 = 6.25%
+
 B10 = 4/16 = 25.00%
+
 B12 = 4/16 = 25.00%
 
 ## Methodology
