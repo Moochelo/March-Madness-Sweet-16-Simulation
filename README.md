@@ -48,14 +48,16 @@ SEC (7 Teams):
 - Kentucky
 - Ole Miss
 - Arkansas
+
 ACC (1 Team):
 - Duke
-B10:
+
+B10 (4 Teams):
 - Michigan State
 - Maryland
 - Purdue
 - Michigan
-B12:
+B12 (4 Teams):
 - Houston
 - Texas Tech
 - Arizona
