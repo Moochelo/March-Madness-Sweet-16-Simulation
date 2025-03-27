@@ -195,9 +195,9 @@ Ultimately, while no model can fully capture the chaos and unpredictability that
 
 ## References
 
-The Forecast Factory LLC, and kenpom.com. 2025 Pomeroy College Basketball Ratings, STATS Perform, 26 Mar. 2025, kenpom.com/. 
+The Forecast Factory LLC, and kenpom.com. 2025 Pomeroy College Basketball Ratings, STATS Perform, 26 Mar. 2025, [kenpom.com/. ](https://kenpom.com/)
 
-“NCAA College Men’s Basketball Di Current Team Stats.” NCAA.Com, NCAA.com, 25 Mar. 2025, www.ncaa.com/stats/basketball-men/d1/current/team/152. 
+NCAA College Men’s Basketball Di Current Team Stats. NCAA.Com, NCAA.com, 25 Mar. 2025, www.ncaa.com/stats/basketball-men/d1/current/team/152. 
  ---
 
 ## Instructions for User Implementation
