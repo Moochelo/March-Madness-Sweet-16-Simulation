@@ -117,6 +117,20 @@ A custom bracket-style plot using `ggplot2` was generated:
 ![image](https://github.com/user-attachments/assets/b6c1b08f-2d87-4d36-ae72-e8224c32effb)
 
 
+After comparing each conference’s theoretical championship odds (based purely on the number of teams in the Sweet 16) with the model-based probabilities, several key insights emerge:
+
+- **SEC**: The model projects a **7.12% boost** over the SEC’s theoretical odds. This is largely driven by the strong title chances of **Florida (10.79%)** and **Auburn (14.06%)**, two of the top three contenders overall. **Alabama** also contributes significantly at **8.94%**, reinforcing the SEC’s dominance.
+
+- **ACC**: Despite having only one team remaining, the ACC sees a **+4.41% increase** in projected title odds. This is due to **Duke’s high probability (10.66%)**, placing them firmly among the tournament’s elite contenders.
+
+- **Big Ten (B10)**: The Big Ten underperforms relative to expectation, with a **-8.88% drop** from its theoretical share. Although the conference has four teams in the Sweet 16, none are viewed by the model as top-tier threats — each has just a **3–4% chance** of winning it all.
+
+- **Big 12 (B12)**: The model assigns the Big 12 a **slight underperformance of -2.65%** compared to their theoretical odds. While **Houston** is a strong contender (**10.19%**), the other three teams (Texas Tech, Arizona, BYU) are less favored, each falling between **2% and 6%**.
+
+---
+
+Let me know if you'd like to pair this with a visual (e.g., bar chart showing theoretical vs simulated % per conference) or turn it into a brief executive summary section.
+
 
 ## Audience and Application
 This project is applicable to the following groups of people for the following reasons:
