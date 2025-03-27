@@ -194,8 +194,11 @@ Ultimately, while no model can fully capture the chaos and unpredictability that
 ---
 
 ## References
- https://kenpom.com/ 
- https://www.ncaa.com/stats/basketball-men/d1/current/team/152
+
+The Forecast Factory LLC, and kenpom.com. 2025 Pomeroy College Basketball Ratings, STATS Perform, 26 Mar. 2025, kenpom.com/. 
+
+“NCAA College Men’s Basketball Di Current Team Stats.” NCAA.Com, NCAA.com, 25 Mar. 2025, www.ncaa.com/stats/basketball-men/d1/current/team/152. 
+ ---
 
 ## Instructions for User Implementation
 
@@ -211,6 +214,8 @@ Ultimately, while no model can fully capture the chaos and unpredictability that
    - Simulate the tournament 10,000 times
    - Create a `results` table with advancement probabilities
    - Plot the custom NCAA bracket using `ggplot2`
+  
+---
 ### Code:
   # --------------------------------------------------
 # NCAA Sweet 16 Tournament Simulation & Bracket Plot
