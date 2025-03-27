@@ -176,14 +176,13 @@ Future directions that can be taken for an analysis similar to this include:
 
 ## Conclusion
 
-This project leveraged team efficiency metrics and custom logistic modeling to simulate the 2025 NCAA Men's Sweet 16 tournament 10,000 times, producing a data-driven prediction for each team’s likelihood of advancing through the bracket. By combining advanced stats like offensive and defensive ratings, tempo, and strength of schedule, the model offered a more nuanced and probabilistic perspective on tournament outcomes than traditional bracket picks.
+This project leveraged team efficiency metrics and logistic modeling to simulate the 2025 NCAA Men's March Madness (from the round of the Sweet 16) tournament 10,000 times, producing a data-driven prediction for each team’s likelihood of advancing through the bracket. By combining advanced stats like offensive and defensive ratings, tempo, and strength of schedule, the model offered a more detail-oriented perspective on tournament outcomes than traditional bracket picks.
 
-The analysis revealed key insights at both the **team** and **conference** level — highlighting not just which teams are most likely to win it all, but also how conferences like the SEC and ACC outperform or underperform relative to expectations based on team count alone. Florida, Auburn, Duke, and Houston emerged as leading contenders, while other conferences saw their championship hopes spread thinly across multiple lower-probability teams.
+The analysis revealed key insights at both the team and conference level — highlighting not just which teams are most likely to win it all, but also how conferences like the SEC and ACC have outperformed relative to expectations based on team count alone. Florida, Auburn, Duke, and Houston emerged as leading contenders, while other conferences see their championship hopes spread thinly across multiple lower-probability teams.
 
-The interactive bracket visualization enhances interpretability, allowing fans and analysts alike to trace the statistical path each team would need to take to win the championship. This kind of simulation-based forecasting brings together **sports analytics, probability theory, and data visualization** in a way that’s accessible, predictive, and engaging.
+The interactive bracket visualization enhances interpretability, allowing fans and analysts alike to trace the statistical path each team would need to take to win the championship. This kind of simulation-based forecasting brings together sports analytics, probability theory, and data visualization in a way that’s accessible, predictive, and engaging.
 
-Ultimately, while no model can fully account for March Madness unpredictability, this approach offers a meaningful, data-informed lens for understanding how team quality and statistical factors shape the road to a national title.
-
+Ultimately, while no model can fully capture the chaos and unpredictability that defines March Madness (and the odds of making a perfect bracket are definitely stacked against you) this approach offers a meaningful, data-driven perspective on how team strength and key performance metrics shape the path to a national championship.
 
 
 ---
