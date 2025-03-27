@@ -1,12 +1,14 @@
 # NCAA March-Madness-Sweet-16-Simulation
 
-**Predicting NCAA Tournament Outcomes with Team Efficiency Metrics**
-
 The goal of this project was to build a data-driven simulation model to estimate each team’s probability of advancing through the NCAA Men’s Sweet 16 and winning the national championship by using advanced team metrics.
 
 ***
 ## Author
 **Michael Mucciolo**
+
+** Project Title
+
+**Predicting NCAA Tournament Outcomes with Team Efficiency Metrics**
 
 ---
 
