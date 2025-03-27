@@ -2,7 +2,7 @@
 
 **Predicting NCAA Tournament Outcomes with Team Efficiency Metrics**
 
-The goal of this project was to build a data-driven simulation model to estimate each team’s probability of advancing through the NCAA Men’s Sweet 16 and winning the national championship by using advanced team metrics. The model aimed to uncover hidden insights and provide a more analytical view of March Madness outcomes.
+The goal of this project was to build a data-driven simulation model to estimate each team’s probability of advancing through the NCAA Men’s Sweet 16 and winning the national championship by using advanced team metrics.
 
 ***
 ## Author
