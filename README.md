@@ -102,35 +102,19 @@ A custom bracket-style plot using `ggplot2` was generated:
 
 ## Tournament Simulation: Conference and Team-Level Odds to Win the Championship
 
-Team	Conference	Champion Prob
-Auburn	SEC	14.06%
-Florida	SEC	10.79%
-Alabama	SEC	8.94%
-Tennessee	SEC	5.82%
-Kentucky	SEC	5.08%
-Ole Miss	SEC	4.13%
-Arkansas	SEC	2.05%
-SEC Total		50.87%
-![image](https://github.com/user-attachments/assets/2dc7448a-5cfb-48d7-b135-842e7ae31190)
+
+![image](https://github.com/user-attachments/assets/e1a5c178-9919-4653-a3d4-57fe8ce37ac0)
 
 
-Duke	      ACC	10.66%
 
-ACC Total		   10.66%
+![image](https://github.com/user-attachments/assets/e78fa87c-bde1-4fc6-b0f7-a058b90e92f3)
 
-M.State	   B10	3.90%
-Maryland	   B10	4.90%
-Purdue	   B10	4.05%
-Michigan	   B10	3.27%
 
-B10 Total		16.12%
 
-Houston	   B12	10.19%
-Texas Tech	B12	5.35%
-Arizona	   B12	4.04%
-BYU	      B12	2.77%
+![image](https://github.com/user-attachments/assets/a2cdb3d7-df92-4a91-89a8-bac41dc5c661)
 
-B12 Total		22.35%
+
+![image](https://github.com/user-attachments/assets/b6c1b08f-2d87-4d36-ae72-e8224c32effb)
 
 
 
