@@ -42,7 +42,7 @@ The dataset used (`Full_Sweet_16_Stats.xlsx`) includes the following columns for
 - **Opponent ORtg/DRtg**
 - **Three Point Percentage**
 Variables also in the dataset (but not utilized)
-- **Rank** (via Kenpom.com)
+- **Rank**
 - **Region**
 - **Conference** 
 
