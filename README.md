@@ -88,6 +88,8 @@ B10 = 4/16 = 25.00%
 
 B12 = 4/16 = 25.00%
 
+---
+
 ## Methodology
 
 ### 1. **Win Probability Function**
