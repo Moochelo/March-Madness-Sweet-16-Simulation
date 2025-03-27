@@ -130,6 +130,10 @@ After comparing each conference’s theoretical championship odds (based purely 
 ---
 
 
+![image](https://github.com/user-attachments/assets/fb3b7d56-6b38-4a3f-96d3-2e18c20565a8)
+
+
+
 
 ## Audience and Application
 This project is applicable to the following groups of people for the following reasons:
