@@ -57,6 +57,7 @@ B10 (4 Teams):
 - Maryland
 - Purdue
 - Michigan
+  
 B12 (4 Teams):
 - Houston
 - Texas Tech
