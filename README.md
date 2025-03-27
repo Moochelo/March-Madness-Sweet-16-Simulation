@@ -17,6 +17,16 @@ The result of this analysis is a data-driven forecast presented visually in a gr
 
 ---
 
+## Audience and Application
+This project is applicable to the following groups of people for the following reasons:
+- **Sports Analysts**: Seeking insights on team advancement odds.
+- **Bracketologists**: Looking for simulation-backed predictions to back their claims.
+- **Fans**: Helping visualize their team's potential path to the championship.
+- **Data Scientists**: Exploring how to apply logistic models in sports prediction.
+
+---
+
+
 ## Dataset
 The dataset used (`Full_Sweet_16_Stats.xlsx`) includes the following columns for each of the 16 teams:
 - **Team Name**
@@ -129,7 +139,7 @@ After comparing each conference’s theoretical championship odds (based purely 
 
 ![image](https://github.com/user-attachments/assets/3bf848ee-82d7-49ef-8c5f-7690eda0aa10)
 
-
+![image](https://github.com/user-attachments/assets/fb3b7d56-6b38-4a3f-96d3-2e18c20565a8)
 ---
 ## Limitations and Future Directions
 
@@ -166,19 +176,15 @@ Future directions that can be taken for an analysis similar to this include:
 
 ## Conclusion
 
-In conclusion, this project undertaken for the SEI x Phillies Hackathon competition aimed to estimate the probability of umpire calls for pitches taken in the 2022 Major League Baseball season. The data analysis and modeling uncovered valuable information about umpire tendencies, accuracy, and what factors influence their decisions. Following the creation of a few calculated variables, the exploratory data analysis that was performed revealed significant features for predicting umpire calls. A logistic regression model on the binary variable (description) was created to construct a predictive model that accurately predicts the probability of an umpire call. The application of this model extends beyond umpire call predictions and can help with catcher framing and improving decision making on and off the field. Teams can use this model to identify the types of pitches pitchers are more likely to throw for strikes, optimize catcher positioning for more strike calls, and determine which pitches batters should frequently swing at.
+This project leveraged team efficiency metrics and custom logistic modeling to simulate the 2025 NCAA Men's Sweet 16 tournament 10,000 times, producing a data-driven prediction for each team’s likelihood of advancing through the bracket. By combining advanced stats like offensive and defensive ratings, tempo, and strength of schedule, the model offered a more nuanced and probabilistic perspective on tournament outcomes than traditional bracket picks.
 
-![image](https://github.com/user-attachments/assets/fb3b7d56-6b38-4a3f-96d3-2e18c20565a8)
+The analysis revealed key insights at both the **team** and **conference** level — highlighting not just which teams are most likely to win it all, but also how conferences like the SEC and ACC outperform or underperform relative to expectations based on team count alone. Florida, Auburn, Duke, and Houston emerged as leading contenders, while other conferences saw their championship hopes spread thinly across multiple lower-probability teams.
+
+The interactive bracket visualization enhances interpretability, allowing fans and analysts alike to trace the statistical path each team would need to take to win the championship. This kind of simulation-based forecasting brings together **sports analytics, probability theory, and data visualization** in a way that’s accessible, predictive, and engaging.
+
+Ultimately, while no model can fully account for March Madness unpredictability, this approach offers a meaningful, data-informed lens for understanding how team quality and statistical factors shape the road to a national title.
 
 
-
-
-## Audience and Application
-This project is applicable to the following groups of people for the following reasons:
-- **Sports Analysts**: Seeking insights on team advancement odds.
-- **Bracketologists**: Looking for simulation-backed predictions to back their claims.
-- **Fans**: Helping visualize their team's potential path to the championship.
-- **Data Scientists**: Exploring how to apply logistic models in sports prediction.
 
 ---
 
@@ -199,15 +205,7 @@ This project is applicable to the following groups of people for the following r
    - Create a `results` table with advancement probabilities
    - Plot the custom NCAA bracket using `ggplot2`
 
----
 
-## Limitations & Future Directions
-- **Randomness**: Results may vary slightly due to simulated randomness.
-- **Injuries or late-season form**: Not accounted for.
-- **Future Enhancements**:
-  - Include seed information and team logos.
-  - Build an interactive version using `shiny`.
-  - Tune model weights using historical tournament outcomes.
 
 ---
 
