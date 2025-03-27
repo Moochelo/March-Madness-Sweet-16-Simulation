@@ -6,7 +6,7 @@ The goal of this project was to build a data-driven simulation model to estimate
 ## Author
 **Michael Mucciolo**
 
-** Project Title **
+## Project Title 
 
 **Predicting NCAA Tournament Outcomes with Team Efficiency Metrics**
 
